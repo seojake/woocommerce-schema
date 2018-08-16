@@ -1,2 +1,2 @@
 # woocommerce-schema
-A light and simple plugin that Schema.org markup to your WooCommerce products.
+A light and simple plugin that adds Schema.org markup to your WooCommerce products.
